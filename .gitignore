@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+server/data/passkeys.json
+server/data/passkeys.json.tmp
+dev-server.log
+dev-server-error.log
+dev-server.pid
+scratch-check.txt
+src/**/*.jsx
+vite.config.js
+tests/test-aurapay.js
